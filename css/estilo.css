@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(241, 230, 167);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+footer p{
+    color: rgb(122, 25, 25);
+    font: size 18px; ;
+    line-height: 1.5;
+}
+main h2{
+    color: rgb(255, 2, 99);
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 2.5;
+}
+main .parrafo{
+    color: rgb(76, 43, 226);
+    font-weight: bold;
+    
+}
+a{
+    text-decoration: none;
+}
+.fondoImg{
+    background-image:url(../multi/fondo.jpg) ;
+}
+
+.bordeBlanco{
+    padding: 20px;
+    width: 500px;
+    margin: 20px;
+    height: 300px;
+    border: white 2px solid;
+    border-radius: 20px;
+    overflow: auto;
+}
+h3{
+    background-color: blueviolet;
+    margin: 20px 0px;
+    padding: 20px;
+    width: 200px;
+    border-bottom: white 5px solid;
+    border-top: violet 5px solid;
+    border-left: blue 5px solid;
+    border-right:  red 5px solid;
+}
